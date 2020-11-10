@@ -1,0 +1,33 @@
+body{
+    
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+.box {
+    text-align: center;
+    padding-top: 8rem;
+    
+    
+
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    width: 400px;
+    background-image: linear-gradient(to right, rgba(128, 128, 128, 0), rgba(128, 128, 128, 0.75), rgba(128, 128, 128, 0));
+}
+
+
+.btn-primary.btn {
+    color: #fff;
+    background-color: red;
+    border-color: red;
+}
+
+.inside {
+    text-align: left;
+    margin-left: 20rem;
+}
+

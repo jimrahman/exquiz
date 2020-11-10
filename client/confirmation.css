@@ -1,0 +1,34 @@
+
+body {
+	background-color: black;
+	text-align: center;
+}
+
+.share {
+	height: 7em;
+	position: relative;
+	
+	text-align: center;
+	color: white;
+}
+ .box {
+ 	padding-top: 25em;
+ }
+
+.write {
+	max-height: 12em;
+	text-align: center;
+	padding-left: 3em;
+
+}
+
+
+.btn-outline-secondary {
+
+	background-color: #ffcccb;
+	color: black;
+	font-weight: bold;
+	border-color: #ffcccb;
+	position: relative;
+}
+

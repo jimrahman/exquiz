@@ -1,0 +1,42 @@
+
+body {
+	background-color: black;
+	text-align: center;
+}
+
+.share {
+	height: 7em;
+	position: relative;
+	
+	text-align: center;
+	color: white;
+}
+ .box {
+ 	margin-top: 15%;
+ 
+ }
+
+.write {
+	max-height: 7em;
+	text-align: center;
+	padding-left: 1em;
+}
+ 
+
+button {
+ 	background-color: red;
+ 	width: 200px;
+ 	font-weight: bold;
+ 	color: white;
+ 	border-color: red;
+ 	height: 50px;
+
+ }
+
+.sm-box{
+	background-color: red;
+	color: red;
+	border-color: red;
+	
+
+ }
